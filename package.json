@@ -44,9 +44,9 @@
     }
   },
   "dependencies": {
-    "@sapphire/decorators": "^4.3.4",
-    "@sapphire/framework": "^3.0.0-next.fd7be0b.0",
-    "@sapphire/plugin-logger": "^2.2.1",
+    "@sapphire/decorators": "^6.1.0",
+    "@sapphire/framework": "^5.2.1",
+    "@sapphire/plugin-logger": "^4.0.2",
     "@sapphire/utilities": "^3.6.2",
     "@zhycorporg/command-context": "^1.1.1",
     "backtracker": "^3.1.1",

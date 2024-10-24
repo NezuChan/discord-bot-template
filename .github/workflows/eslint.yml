@@ -20,7 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@eeb10cff27034e7acf239c5d29f62154018672fd # tag=v3
+      uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # v4
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
